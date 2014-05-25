@@ -90,6 +90,7 @@
     <string name="noise_suppression_summary">Enable noise suppression for calls</string>
 
 
+
     <!-- Mobile network settings, preferred network mode -->
     <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma" translatable="false">TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_td_scdma_cdma_evdo_gsm_wcdma" translatable="false">TD-SCDMA/CDMA/EvDo/GSM/WCDMA</string>
@@ -140,6 +141,7 @@
     <string name="preference_category_interface">Interface</string>
     <string name="non_intrusive_incall_title">Non intrusive</string>
     <string name="non_intrusive_incall_summary">Use non intrusive dialog for incoming calls</string>
+
 
 
 </resources>
