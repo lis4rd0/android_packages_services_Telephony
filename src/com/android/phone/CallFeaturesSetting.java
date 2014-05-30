@@ -1747,9 +1747,7 @@ public class CallFeaturesSetting extends PreferenceActivity
 
         restoreLookupProviders();
 
-        mNonIntrusiveInCall = (CheckBoxPreference) findPreference(BUTTON_NON_INTRUSIVE_INCALL_KEY);
-        mNonIntrusiveInCall.setChecked(Settings.System.getInt(getContentResolver(),
-                Settings.System.NON_INTRUSIVE_INCALL, 1) == 0 ? false : true);
+        
 
 
         // create intent to bring up contact list
